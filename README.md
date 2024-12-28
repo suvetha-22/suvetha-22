@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suvetha-22
-- 👀 I’m interested in Front end technologies,cyber security
-- 🌱 I’m currently learning front end technologies
+- 👀 I’m interested in Full stack web development ,cyber security,Risk Management
+- 🌱 I’m currently learning Cybersecurity techniques and tactics
 - 💞️ I’m looking to collaborate on software companies
 - 📫 you can reach me at suvethasuriya33@gmail.com
 
